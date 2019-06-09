@@ -219,3 +219,4 @@ C:\Users\User\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.pdb
 C:\Users\User\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
 C:\Users\User\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
 C:\Users\User\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.EditingNameOfMembershipTypes.resources
+C:\Users\User\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AdsBirthDateToCustomer.resources

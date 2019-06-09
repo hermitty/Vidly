@@ -29,7 +29,9 @@ namespace Vidly.Controllers
 
         public ActionResult Details(int id)
         {
-            Customer customer = _context.Customers.SingleOrDefault(c => c.Id == id);
+            Customer customer = _context.Customers.Include(c => c.MembershipType).SingleOrDefault(c => c.Id == id);
+            if (customer == null)
+                return HttpNotFound();
             return View(customer);
         }
 
