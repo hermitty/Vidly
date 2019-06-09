@@ -220,3 +220,7 @@ C:\Users\User\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnot
 C:\Users\User\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
 C:\Users\User\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.EditingNameOfMembershipTypes.resources
 C:\Users\User\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AdsBirthDateToCustomer.resources
+C:\Users\User\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreTable.resources
+C:\Users\User\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreTable1.resources
+C:\Users\User\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.EditMovieTable.resources
+C:\Users\User\Documents\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.InsterToGenresTable.resources

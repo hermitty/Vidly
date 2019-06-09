@@ -203,9 +203,26 @@
     <Compile Include="Migrations\201906091154135_AdsBirthDateToCustomer.Designer.cs">
       <DependentUpon>201906091154135_AdsBirthDateToCustomer.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201906091258178_AddGenreTable.cs" />
+    <Compile Include="Migrations\201906091258178_AddGenreTable.Designer.cs">
+      <DependentUpon>201906091258178_AddGenreTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201906091301283_AddGenreTable1.cs" />
+    <Compile Include="Migrations\201906091301283_AddGenreTable1.Designer.cs">
+      <DependentUpon>201906091301283_AddGenreTable1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201906091307426_EditMovieTable.cs" />
+    <Compile Include="Migrations\201906091307426_EditMovieTable.Designer.cs">
+      <DependentUpon>201906091307426_EditMovieTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201906091310473_InsterToGenresTable.cs" />
+    <Compile Include="Migrations\201906091310473_InsterToGenresTable.Designer.cs">
+      <DependentUpon>201906091310473_InsterToGenresTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\MembershipType.cs" />
@@ -311,6 +328,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201906091154135_AdsBirthDateToCustomer.resx">
       <DependentUpon>201906091154135_AdsBirthDateToCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906091258178_AddGenreTable.resx">
+      <DependentUpon>201906091258178_AddGenreTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906091301283_AddGenreTable1.resx">
+      <DependentUpon>201906091301283_AddGenreTable1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906091307426_EditMovieTable.resx">
+      <DependentUpon>201906091307426_EditMovieTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906091310473_InsterToGenresTable.resx">
+      <DependentUpon>201906091310473_InsterToGenresTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
